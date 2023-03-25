@@ -1,4 +1,4 @@
-package pro.sky.intomaven.services.impl;
+package pro.sky.intomaven.services;
 
 import pro.sky.intomaven.model.Recipe;
 

@@ -2,7 +2,7 @@ package pro.sky.intomaven.controllers;
 
 import org.springframework.web.bind.annotation.*;
 import pro.sky.intomaven.model.Recipe;
-import pro.sky.intomaven.services.impl.RecipeService;
+import pro.sky.intomaven.services.RecipeService;
 
 @RestController
 @RequestMapping("/recipe")
